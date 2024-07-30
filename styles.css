@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+
+.me-img img {
+    width: 250px;
+    border-radius: 50%;
+}
+
+.header h1 {
+    font-size: 50px;
+}
+
+.header p {
+    font-size: 20px;
+    line-height: 2;
+    width: 50vw;
+    margin: 30px auto;
+}
+
+.my-work {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    width: 75%;
+    position: relative;
+}
+
+.images {
+    width: 100%;
+    margin: 0 auto;
+    position: absolute;
+    top: 50px;
+}
+
+.images img {
+    width: 100%;
+    border: 1px solid;
+}
