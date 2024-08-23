@@ -26,7 +26,6 @@
 }
 
 .certifications {
-    border: 1px solid black;
     text-align: center;
     font-size: 30px;
 }
@@ -40,8 +39,7 @@
 }
 
 .cert img {
-    width: 50%;
-    height: 1000px;
+    width: 100%;
 }
 
 .my-work {
