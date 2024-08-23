@@ -25,6 +25,25 @@
     margin: 30px auto;
 }
 
+.certifications {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.cert {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    width: 75%;
+}
+
+.cert img {
+    width: 50%;
+    height: 1000px;
+}
+
 .my-work {
     display: flex;
     justify-content: space-around;
