@@ -64,7 +64,7 @@
 /* Responsive Layout */
 @media (max-width: 1200px) {
   .images {
-    grid-template-columns: repeat(3, 1fr); /* 3 columns on large screens */
+    grid-template-columns: repeat(2, 1fr); /* 3 columns on large screens */
   }
 }
 
